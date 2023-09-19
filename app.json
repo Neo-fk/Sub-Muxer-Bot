@@ -37,7 +37,7 @@
        },
         "UPDATES_CHANNEL": {
             "description": "Get it From IDFinderRobot By Forwarding Msg From Channel to get id",
-            "required": "True"
+            "required": "false"
        },
         "LOG_CHANNEL": {
             "description": "Get it From IDFinderRobot By Forwarding Msg From Channel to get id",
