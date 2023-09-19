@@ -1,5 +1,5 @@
 {
-    "name": "Video-subtitle-merger",
+    "name": "Sub-Muxer-Bot",
     "logo": "https://telegra.ph//file/d862f12b9c2ec6bc3cbaf.jpg",
     "description": "Telegram bot to mux subtitles with the video",
     "keywords": [
@@ -7,7 +7,7 @@
         "subtitles",
         "muxing"
     ],
-    "repository": "https://github.com/NaysaBots/subtitle-muxer-bot",
+    "repository": "https://github.com/Neo-fk/Sub-Muxer-Bot",
     "website": "https://t.me/naysabots",
     "success_url": "https://t.me/naysabots",
     "env": {
@@ -46,7 +46,7 @@
     },
 	"buildpacks": [
 		{
-			"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+			"url": "https://github.com/interconnectit/heroku-buildpack-ffmpeg.git"
 		},
 		{
 			"url": "heroku/python"
