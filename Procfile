@@ -1,2 +1,2 @@
-worker: python3 muxbot.py
+worker: python3 get_config.py && python3 bot.py
 
