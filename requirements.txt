@@ -15,14 +15,3 @@ motor
 https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
 psutil
-dnspython
-ffmpeg-python
-hachoir
-Pillow
-psutil
-pymongo
-Pyrogram
-pyromod
-python-dotenv
-requests
-TgCrypto
